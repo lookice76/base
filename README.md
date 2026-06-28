@@ -4,4 +4,5 @@ activity #2
 activity #3
 activity #4
 activity #5
-activity #6
+activity #6 
+activity #7
