@@ -18,3 +18,4 @@ Activity #17 - Creata sezione commenti con markdown
 Activity #18 - Implementato carrello e-commerce
 Activity #19 - Aggiunte animazioni con Framer Motion
 Activity #20 - Integrato AI chatbot di supporto
+Activity #21 - Implementata autenticazione a due fattori (2FA)
