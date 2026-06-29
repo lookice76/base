@@ -16,3 +16,4 @@ Activity #14 - Ottimizzata performance caricamento dati
 Activity #15 - Implementate notifiche push
 Activity #17 - Creata sezione commenti con markdown
 Activity #18 - Implementato carrello e-commerce
+Activity #19 - Aggiunte animazioni con Framer Motion
