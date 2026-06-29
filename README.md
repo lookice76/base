@@ -10,3 +10,4 @@ activity #8
 activity #9
 activity #10
 Activity #11 - Implementato sistema di login con Google
+Activity #12 - Creata dashboard utente responsive
