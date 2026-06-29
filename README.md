@@ -21,3 +21,4 @@ Activity #20 - Integrato AI chatbot di supporto
 Activity #21 - Implementata autenticazione a due fattori (2FA)
 Activity #22 - Creata API REST con documentazione Swagger
 Activity #23 - Implementato sistema di pagamento con Stripe
+Activity #24 - Aggiunto testing con Jest e React Testing Library
