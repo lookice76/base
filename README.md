@@ -9,3 +9,4 @@ activity #7
 activity #8
 activity #9
 activity #10
+Activity #11 - Implementato sistema di login con Google
