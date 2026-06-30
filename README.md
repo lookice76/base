@@ -32,3 +32,4 @@ Activity #31 - Ottimizzato SEO con SSR e meta tags dinamici
 Activity #32 - Implementata internationalizzazione (i18n)
 Activity #33 - Creata dark/light mode con persistenza preferenze
 Activity #34 - Aggiunto file upload con validazione e antivirus
+Activity #35 - Implementato sistema di raccomandazioni personalizzate
