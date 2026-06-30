@@ -36,3 +36,4 @@ Activity #35 - Implementato sistema di raccomandazioni personalizzate
 Activity #36 - Aggiunte progressive web app (PWA) features
 Activity #37 - Creata documentazione completa con Storybook
 Activity #38 - Implementato rate limiting e protezione DDoS
+Activity #39 - Progetto completato e pronto per la produzione
