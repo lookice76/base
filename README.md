@@ -38,3 +38,4 @@ Activity #37 - Creata documentazione completa con Storybook
 Activity #38 - Implementato rate limiting e protezione DDoS
 Activity #39 - Progetto completato e pronto per la produzione
 Activity #40 - Implementata GraphQL API accanto alla REST
+Activity #41 - Aggiunto supporto multilingua completo con traduzione automatica
