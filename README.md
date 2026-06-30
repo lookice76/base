@@ -23,3 +23,4 @@ Activity #22 - Creata API REST con documentazione Swagger
 Activity #23 - Implementato sistema di pagamento con Stripe
 Activity #24 - Aggiunto testing con Jest e React Testing Library
 Activity #25 - Deployato il progetto su Vercel con CI/CD
+Activity #26 - Implementato sistema di caching con Redis
