@@ -39,3 +39,4 @@ Activity #38 - Implementato rate limiting e protezione DDoS
 Activity #39 - Progetto completato e pronto per la produzione
 Activity #40 - Implementata GraphQL API accanto alla REST
 Activity #41 - Aggiunto supporto multilingua completo con traduzione automatica
+Activity #42 - Creata pipeline CI/CD avanzata con GitHub Actions
