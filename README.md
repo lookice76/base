@@ -27,3 +27,4 @@ Activity #26 - Implementato sistema di caching con Redis
 Activity #27 - Aggiunta ricerca full-text con Elasticsearch
 Activity #28 - Creata sezione admin panel con ruoli e permessi
 Activity #29 - Implementate WebSockets per chat in tempo reale
+Activity #30 - Aggiunto monitoraggio con Sentry e analytics
