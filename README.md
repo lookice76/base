@@ -33,3 +33,4 @@ Activity #32 - Implementata internationalizzazione (i18n)
 Activity #33 - Creata dark/light mode con persistenza preferenze
 Activity #34 - Aggiunto file upload con validazione e antivirus
 Activity #35 - Implementato sistema di raccomandazioni personalizzate
+Activity #36 - Aggiunte progressive web app (PWA) features
