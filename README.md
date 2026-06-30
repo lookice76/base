@@ -29,3 +29,4 @@ Activity #28 - Creata sezione admin panel con ruoli e permessi
 Activity #29 - Implementate WebSockets per chat in tempo reale
 Activity #30 - Aggiunto monitoraggio con Sentry e analytics
 Activity #31 - Ottimizzato SEO con SSR e meta tags dinamici
+Activity #32 - Implementata internationalizzazione (i18n)
