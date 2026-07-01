@@ -45,3 +45,4 @@ Activity #44 - Aggiunte animazioni avanzate con GSAP
 Activity #45 - Ottimizzazione SEO tecnica e performance Core Web Vitals
 Activity #46 - Implementata generazione di contenuti con AI
 Activity #47 - Aggiunto sistema di recensioni e rating
+Activity #48 - Creata versione mobile nativa con React Native
