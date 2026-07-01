@@ -67,3 +67,4 @@ Activity #66 - Implementato sistema di raccomandazioni basate su machine learnin
 Activity #67 - Aggiunto dark mode automatico basato sulle preferenze di sistema
 Activity #68 - Creata integrazione con social login (Apple, GitHub, Twitter)
 Activity #69 - Implementato infinite scrolling con virtualizzazione lista
+Activity #70 - Aggiunto supporto per voice search e comandi vocali
