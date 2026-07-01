@@ -99,3 +99,4 @@ Activity #98 - Creata API pubblica documentata con Swagger + OpenAPI
 Activity #99 - Implementato sistema di gamification e reward per gli utenti
 Activity #100 - Progetto v4.0 rilasciato - Enorme aggiornamento architetturale
 Activity #101 - Implementata infrastruttura multi-region con auto-scaling
+Activity #102 - Implementato sistema di caching distribuito con Redis Cluster
