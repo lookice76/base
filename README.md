@@ -63,3 +63,4 @@ Activity #62 - Implementata accessibilità WCAG 2.2 completa
 Activity #63 - Creata knowledge base interna con ricerca semantica
 Activity #64 - Aggiunto monitoraggio utente con heatmaps e session recording
 Activity #65 - Progetto v2.0 rilasciato con nuove funzionalità avanzate
+Activity #66 - Implementato sistema di raccomandazioni basate su machine learning
