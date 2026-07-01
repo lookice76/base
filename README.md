@@ -53,3 +53,4 @@ Activity #52 - Aggiunto server-side rendering con Next.js
 Activity #53 - Creata dashboard analytics in tempo reale
 Activity #54 - Implementato sistema di subscription e piani premium
 Activity #55 - Aggiunto supporto per temi personalizzati dall'utente
+Activity #56 - Ottimizzazione delle performance con lazy loading e code splitting
