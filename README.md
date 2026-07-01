@@ -65,3 +65,4 @@ Activity #64 - Aggiunto monitoraggio utente con heatmaps e session recording
 Activity #65 - Progetto v2.0 rilasciato con nuove funzionalità avanzate
 Activity #66 - Implementato sistema di raccomandazioni basate su machine learning
 Activity #67 - Aggiunto dark mode automatico basato sulle preferenze di sistema
+Activity #68 - Creata integrazione con social login (Apple, GitHub, Twitter)
