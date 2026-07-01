@@ -49,3 +49,4 @@ Activity #48 - Creata versione mobile nativa con React Native
 Activity #49 - Implementata sicurezza avanzata (OWASP compliance)
 Activity #50 - Progetto v1.0 completato con successo
 Activity #51 - Implementato micro-frontends architecture
+Activity #52 - Aggiunto server-side rendering con Next.js
