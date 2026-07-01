@@ -57,3 +57,4 @@ Activity #56 - Ottimizzazione delle performance con lazy loading e code splittin
 Activity #57 - Implementata compressione e ottimizzazione immagini automatica
 Activity #58 - Aggiunto sistema di notifiche email e in-app
 Activity #59 - Creata landing page con conversion rate optimization
+Activity #60 - Implementato feature flags per rollout controllati
