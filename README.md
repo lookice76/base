@@ -55,3 +55,4 @@ Activity #54 - Implementato sistema di subscription e piani premium
 Activity #55 - Aggiunto supporto per temi personalizzati dall'utente
 Activity #56 - Ottimizzazione delle performance con lazy loading e code splitting
 Activity #57 - Implementata compressione e ottimizzazione immagini automatica
+Activity #58 - Aggiunto sistema di notifiche email e in-app
